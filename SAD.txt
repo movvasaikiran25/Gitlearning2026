@@ -1,0 +1,13 @@
+WCB Case ID (File Number) is required.
+Submitter First Name is required.
+Submitter Last Name is required.
+Submitter POI is required.
+Submitter Phone is required.
+Submitter Email is required.
+On Behalf Of Insurer POI is required.
+On Behalf Of Claim Admin Poi is required.
+Reasons: at least one Reason is required.
+Additional Proposed Finding ANCR is required when Additional Proposed Finding NO, Additional Proposed Finding AWW, and Additional Proposed Finding Award Lost Wage Ben are not 'Y'.
+Additional Proposed Finding AWW is required when Additional Proposed Finding NO, Additional Proposed Finding ANCR and Additional Proposed Finding Award Lost Wage Ben are not 'Y'.
+Additional Proposed Finding Award Lost Wage Ben is required when Additional Proposed Finding NO, Additional Proposed Finding ANCR, and Additional Proposed Finding AWW are not 'Y'.
+Additional Proposed Finding NO Required is required when Additional Proposed Finding Award Lost Wage Ben, Additional Proposed Finding ANCR, and Additional Proposed Finding AWW are not 'Y'.
